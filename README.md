@@ -7,6 +7,7 @@ This program emulates behavior of people and zombie in one place: Every point is
 	Green point is a dead man;<br><br>
 You can change basic number of people: <br>Click on point with left button of mouse to turn him into zombie and back into human;<br>
 Click on point with scroll to turn him into dead man and back.<br><br>
-You can olso create walls by clicking in two different places of field with right button of mouse.
+You can olso create walls by clicking in two different places of field with right button of mouse.<br>
 
-<img src="https://www.dropbox.com/s/h2lqmwafus9bmj9/1.bmp?dl=0">
+https://www.dropbox.com/s/3xubb9k1e6mrm7d/1.png?dl=0
+https://www.dropbox.com/s/063l123718x1oz7/2.png?dl=0
